@@ -25,3 +25,4 @@ We welcome contributions from the community to enhance School Administrator. If 
 ## Contact 📧
 
 For any inquiries or feedback, please reach out to abdelghafourlahnida01@gmail.com.
+
