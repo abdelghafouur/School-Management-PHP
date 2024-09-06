@@ -2,7 +2,7 @@
 
 School Management is a web-based application designed to simplify and automate the management of a school's administrative tasks. This comprehensive solution provides administrators with a user-friendly platform to efficiently handle various aspects of school management, including student enrollment, course management.
 
-## 📊Key Features
+## 📊Key Features 
 
 - 📚 **Student Enrollment:** Streamline the process of enrolling students into courses and managing their personal information.
 - 📷 **Album Management:** Upload and manage albums of school events, such as graduation ceremonies, field trips, and extracurricular activities.
